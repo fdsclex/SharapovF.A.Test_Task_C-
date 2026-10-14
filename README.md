@@ -1,6 +1,6 @@
 # Vulnerability Tracker API
 
-Репозиторий на GitHub: https://github.com/fdsclex/SharapovF.A.Test_Task_C-
+Репозиторий на GitHub: https://github.com/fdsclex/SharapovF.A.Test_Task_C-.git
 
 Автор: Шарапов Ф.А.
 
